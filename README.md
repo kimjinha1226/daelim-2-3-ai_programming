@@ -5,3 +5,9 @@
     -python 설치
     -Jupyter Notebook 설치
     -github랑 vscode 연동
+## 3주차
+    -파이썬 기초 배우기
+    -변수 및 순자,문자열
+    -리스트,조건문,반복문
+    -함수 및 머신러닝
+    -pandas 설치
